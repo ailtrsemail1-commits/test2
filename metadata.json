@@ -1,0 +1,6 @@
+{
+  "name": "사이버 보안 체험관",
+  "description": "학습 진척도, 비밀번호 강도 테스트, 피싱 메일 탐지, 보안 OX 퀴즈, 공격 백과사전, 보안 체크리스트를 포함한 전방위 사이버 보안 교육 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
